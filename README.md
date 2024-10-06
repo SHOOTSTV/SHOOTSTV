@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Axel and I learn Web Developpement, from France</p>
+<p align="left">My name is Axel and I learn Web Developement, from France</p>
 
 ###
 
