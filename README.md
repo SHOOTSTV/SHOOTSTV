@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Axel and I learn Web Developement, from France</p>
+<p align="left">My name is Axel and I learn Web Developpement, from France</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Fan of computer science since I was born<br>📚 I'm currently learning React.js & Tailwind<br>🎯 Goals: Web Developer</p>
+<p align="left">✨ Fan of computer science since I was born<br>📚 I'm currently learning Next.js & Tailwind<br>🎯 Goals: Web Developer</p>
 
 ###
 
@@ -39,11 +39,11 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/symfony/000000" height="40" alt="symfony logo"  />
 </div>
 
 ###
