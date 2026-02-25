@@ -4,12 +4,12 @@
 
 ## 💫 About Me:
 
--✨ Fan of computer science since I was born<br>-📚 I'm currently learning Next.js & Tailwind<br>-🎯 Goals: Master Next.js 15 and its new features, deepen my TypeScript knowledge, and develop high-performance and accessible web applications.
+-✨ Fan of computer science since I was born<br>-📚 I'm currently learning Next.js & Tailwind<br>-🎯 Goals: Master Next.js 16 and its new features, deepen my TypeScript knowledge, and develop high-performance and accessible web applications.
 
 ## 🌟 Key Skills
 
 - 💻 Frontend Development with React & Next.js
-- 🎨 UI/UX Design with Tailwind CSS & SASS
+- 🎨 UI/UX Design with Tailwind CSS
 - 🛠 Backend Architecture with Supabase & Prisma
 - 📱 Responsive and Modern Web Applications
 
